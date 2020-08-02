@@ -1,0 +1,3 @@
+{:deps                                                
+ {juxt/crux-core {:mvn/version "20.07-1.10.0-beta"}}
+ :paths ["src"]}       
